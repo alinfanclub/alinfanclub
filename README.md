@@ -1,4 +1,4 @@
-<h3 align="center"><b>✨✨ Thing  ✨✨</b></h3>
+<h3 align="center"><b>✨✨ Thing I code with ✨✨</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
