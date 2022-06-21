@@ -1,5 +1,9 @@
 <h1> Hi I'm alinfanclub 🐜 </h1>
-<h3><b>Now I'm coding in Busan 🌊, South Korea</b></h3>
+<h3><b>Now I'm coding, drawing in Busan 🌊, South Korea</b></h3>
+<ul>
+  <li>Blog : https://aliencoding.tistory.com/</li>
+  <li>🚧 ArtWork : https://alinfanclub.github.io/ownpage_test/ 🚧 </li>
+</ul> 
 </br>
 <h3><b>✨✨ Thing I code with ✨✨</b></h3>
 </br>
