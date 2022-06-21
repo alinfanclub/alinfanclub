@@ -1,6 +1,6 @@
-<h1> Hi I'm alinfanclub </h1>
-Now I'm coding in Busan 🌊, South Korea
-
+<h1> Hi I'm alinfanclub 🐜 </h1>
+<h3><b>Now I'm coding in Busan 🌊, South Korea</b></h3>
+</br>
 <h3><b>✨✨ Thing I code with ✨✨</b></h3>
 </br>
 <p>
@@ -14,7 +14,7 @@ Now I'm coding in Busan 🌊, South Korea
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 </p>
 </br>
-<div align="center">
+<div>
   <p> <img src="https://github-readme-stats.vercel.app/api?username=alinfanclub&show_icons=true&theme=white" alt="alinfanclub" height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinfanclub&hide=TeX&layout=compact" alt='alinfanclub' height="200">
 </div>
